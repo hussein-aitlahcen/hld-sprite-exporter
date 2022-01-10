@@ -1,0 +1,2 @@
+#define HLDEXPORTER_API __declspec(dllexport)
+#define HLDEXPORTER_API __declspec(dllimport)
